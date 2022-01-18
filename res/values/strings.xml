@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Covid19app</string>
+    <string name="upload_signs">Upload Signs</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="back_facing_camera">Back facing camera</string>
+    <string name="measure_heart_rate">Measure Heart Rate</string>
+    <string name="measure_respiratory_rate">Measure Respiratory Rate</string>
+    <string name="button">Button</string>
+
+    <string-array name="list_symptoms">
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>Diarrhea</item>
+        <item>Sore Throat</item>
+        <item>Fever</item>
+        <item>Muscle Ache</item>
+        <item>Loss of smell or taste</item>
+        <item>Cough</item>
+        <item>Shortness of breath</item>
+        <item>Feeling tired</item>
+    </string-array>
+</resources>
